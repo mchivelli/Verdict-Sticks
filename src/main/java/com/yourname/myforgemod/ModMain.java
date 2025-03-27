@@ -20,7 +20,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 @Mod(ModMain.MODID)
 public class ModMain {
 
-  public static final String MODID = "examplemod"; // [Guide: Unique identifier for your mod; must be all lowercase.]
+  public static final String MODID = "myforgemod"; // [Guide: Unique identifier for your mod; must be all lowercase.]
   public static final Logger LOGGER = LogManager.getLogger(); // [Guide: Logger for outputting debug/info messages.]
 
   public ModMain() {
